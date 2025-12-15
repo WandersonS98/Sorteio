@@ -92,6 +92,7 @@ button:hover {
 }
 
 .btn-adc{
+    position: fixed;
     padding: 10px 20px;
     font-size: 16px;
     background-color: #007BFF;
@@ -101,7 +102,6 @@ button:hover {
     cursor: pointer;
     transition: 0.3s;
     margin: 10px;
-    float: left;
     transform: translate(-180%, 140%);
 }
 
