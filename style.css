@@ -4,6 +4,7 @@ body{
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 50px;
+    position: fixed;
 }
 
 h1 {
@@ -92,7 +93,6 @@ button:hover {
 }
 
 .btn-adc{
-    position: absolute;
     padding: 10px 20px;
     font-size: 16px;
     background-color: #007BFF;
